@@ -1,0 +1,30 @@
+* {
+  background-color: tan;
+}
+
+h1, h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: darkblue;
+}
+
+table, td {
+  border: black 2px solid;
+  background-color: lightgrey;
+}
+
+thead {
+  font-weight: 1000;
+  font-size: 20px;
+}
+
+.code {
+  font-family: monospace;
+}
