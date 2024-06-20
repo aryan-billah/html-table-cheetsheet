@@ -1,1 +1,1 @@
-# html-table-cheetsheet
+Made a quick little cheat sheet which explains the basic html table elements and attributes, using html tables and css. This project is to practice and refresh my memory on html tables and css properties.
